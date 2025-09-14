@@ -1,6 +1,6 @@
 ## Interface: 11200
 ## Title: 小地图坐标显示
-## Notes: Lets you see your coordinates on the minimap.
+## Notes: 让你在小地图上看到坐标.
 ## OptionalDeps:
 ## Dependencies: 
 ## SavedVariables: cMinimapCoordinatesSettings
