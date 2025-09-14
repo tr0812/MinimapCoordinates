@@ -1,5 +1,5 @@
 ## Interface: 11200
-## Title: cMinimapCoordinates
+## Title: 小地图坐标显示
 ## Notes: Lets you see your coordinates on the minimap.
 ## OptionalDeps:
 ## Dependencies: 
