@@ -1,4 +1,4 @@
-## Interface: 11000
+## Interface: 11200
 ## Title: cMinimapCoordinates
 ## Notes: Lets you see your coordinates on the minimap.
 ## OptionalDeps:
